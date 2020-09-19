@@ -1,2 +1,7 @@
 this is first file.
 This is second line added.
+
+
+This section is for staging area.
+
+This section is for working stage
